@@ -5,3 +5,7 @@ the bestbuy tweets collected from twitter to classify the tweets into positive a
 Used Chi Square and Active learning methodology to find the rationales and label for non labelled tweets and created training set 
 and test set from this data.
 Compared the performance of the classifier with the Learning without Rationale with Learning with Rationale.
+
+Technology: Python 3.6, Scikit-learn 0.18.1.
+
+Algorithm: Multinomial Naive Bayes, Logistic Regression, Support Vector Machines, Interactive Machine Learning, Active learning
